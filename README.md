@@ -365,6 +365,17 @@ npm run dev
 
 # 🧪 Sample Outputs
 
+## Links Management:
+<img width="1558" height="861" alt="image" src="https://github.com/user-attachments/assets/2b1a1d62-4c05-4d89-a595-d647ac7a4e4f" />
+
+
+## User Dashboard:
+<img width="1549" height="952" alt="image" src="https://github.com/user-attachments/assets/9c443d2f-ef7d-47da-90cf-94ad9088e7fe" />
+
+## Mongo Atlas DataBase:
+<img width="1918" height="801" alt="image" src="https://github.com/user-attachments/assets/957ed167-6da0-4390-aa52-0aa51342c07f" />
+
+
 ## User Dashboard
 
 Displays:
@@ -483,9 +494,9 @@ The demonstration video includes:
 
 # 👨‍💻 Developer
 
-Sudharshan Sudhir
+Sudharshan R
 
-Full Stack Developer
+Full Stack Developer-MERN
 
 ---
 
