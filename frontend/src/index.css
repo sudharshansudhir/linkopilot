@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 *{
-  font-family: "Iceland", sans-serif;
+  font-family: "Oxanium", sans-serif;
+  font-optical-sizing: auto;
   font-weight: 600;
-  font-size: large;
   font-style: normal;
 }
