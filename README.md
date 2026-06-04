@@ -465,9 +465,8 @@ All generated code was reviewed, modified, tested, and understood before integra
 
 YouTube / Loom Link:
 
-```text
-PASTE_YOUR_VIDEO_LINK_HERE
-```
+
+https://youtu.be/5xb3LXQ0ar8
 
 The demonstration video includes:
 
